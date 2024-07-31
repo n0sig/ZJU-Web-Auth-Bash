@@ -14,7 +14,7 @@
 `./zju-web-auth.sh logout`
 
 若退出成功，脚本将打印`logout_ok`
-##交互式操作
+## 交互式操作
 `./zju-web-auth.sh`
 
 然后根据提示输入指令、账号和密码。
