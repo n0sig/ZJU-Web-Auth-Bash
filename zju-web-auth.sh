@@ -2,9 +2,9 @@
 
 _PADCHAR="="
 _ALPHA="LVoJPiCN2R8G90yg+hmFHuacZ1OWMnrsSTXkYpUq/3dlbfKwv6xztjI7DeBE45QA"
-INIT_URL="https://net3.zju.edu.cn/"
-GET_CHALLENGE_API="https://net3.zju.edu.cn/cgi-bin/get_challenge"
-SRUN_PORTAL_API="https://net3.zju.edu.cn/cgi-bin/srun_portal"
+INIT_URL="https://net.zju.edu.cn/"
+GET_CHALLENGE_API="https://net.zju.edu.cn/cgi-bin/get_challenge"
+SRUN_PORTAL_API="https://net.zju.edu.cn/cgi-bin/srun_portal"
 N='200'
 TYPE='1'
 ENC="srun_bx1"
